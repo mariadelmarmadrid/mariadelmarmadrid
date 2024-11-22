@@ -1,4 +1,4 @@
-💫 **About Me:**
+# 💫 **About Me:**
 
 🔭 I’m currently studying **Software Engineering** at the University of Málaga.  
 👨‍💻 I have worked as a **TI Auditor**.  
